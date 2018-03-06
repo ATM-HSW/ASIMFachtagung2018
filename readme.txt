@@ -1,3 +1,8 @@
+examples for the paper: MbedTarget - A Simulink Target for Cortex-M Microcontrollers
+by: Olaf Hagendorf
+published at: ASIM Fachtagung 8. - 9. März 2018, Hochschule Heilbronn
+https://www.hs-heilbronn.de/asim-fachgruppentreffen
+
 Code:    program code
 RO-data: constants
 RW-data: initialized data
